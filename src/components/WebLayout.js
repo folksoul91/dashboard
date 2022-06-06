@@ -1,5 +1,5 @@
 const WebLayout = () => {
-  return <></>;
+  return <div></div>;
 };
 
 export default WebLayout;
